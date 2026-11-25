@@ -1,1 +1,1 @@
-# Bem vinso ao curso
+# Bem vindo ao curso
